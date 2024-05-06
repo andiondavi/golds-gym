@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+<div align="center">
+  <br />
+    <img src="https://i.imgur.com/yM79UFT.png" alt="Project Banner">
+  <br />
+  <br />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Material_UI-black?style=for-the-badge&logoColor=white&logo=mui&color=646CFF" alt="material ui" />
+  </div>
 
-## Available Scripts
+  <h3 align="center">Exercise API Based Website</h3>
+</div>
 
-In the project directory, you can run:
+## 📋 <a name="table">Table of Contents</a>
 
-### `npm start`
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+6. 🔗 [Links](#links)
+7. 💡 [Final Considerations](#final-considerations)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## <a name="introduction">🤖 Introduction</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Golds Gym - Exercise API based website, developed using React.js and Material UI, consumes two different APIs to show examples of exercises and youtube videos for each specific exercise. You can search the exercise you want to see in the search input, or just filter through the body parts categories.
 
-### `npm test`
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React.js
+- Material UI
 
-### `npm run build`
+## <a name="features">🔋 Features</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+👉 **API Consuming**: Cosnsume two different APIs. One for exercise filtering and other for youtube videos filtering.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+And many more, including code architecture and reusability
 
-### `npm run eject`
+## <a name="quick-start">🤸 Quick Start</a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Follow these steps to set up the project locally on your machine.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Prerequisites**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+*Make sure you have the following installed on your machine:*
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) *(Node Package Manager)*
 
-## Learn More
+**Cloning the Repository**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+git clone https://github.com/andiondavi/golds-gym.git
+cd golds-gym
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Installation**
 
-### Code Splitting
+*Install the project dependencies using npm:*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm install
+```
 
-### Analyzing the Bundle Size
+**Running the Project**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+npm start
+```
 
-### Making a Progressive Web App
+*Open [http://localhost:5173](http://localhost:3000) in your browser to view the project.*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## <a name="links">🔗 Links</a>
 
-### Advanced Configuration
+- [Live Website]()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## <a name="final-considerations">💡 Final Considerations</a>
 
-### Deployment
+- Developed by: Davi Andion.
+- Github: [@andiondavi](https://github.com/andiondavi)
+- Linked in: [https://www.linkedin.com/in/davi-andion/](https://www.linkedin.com/in/davi-andion/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#
